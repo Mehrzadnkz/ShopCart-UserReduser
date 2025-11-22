@@ -1,0 +1,22 @@
+export const Data = [
+    { id: 1, name: "Gaming PC Alpha", price: 1299},
+    { id: 2, name: "Gaming PC Beta", price: 999},
+    { id: 3, name: "Mini PC Nano", price: 449},
+    { id: 4, name: "Workstation Pro", price: 2199},
+    { id: 5, name: "Streamer Rig", price: 1499},
+    { id: 6, name: "Budget PC Basic", price: 499},
+    { id: 7, name: "High-End Tower", price: 3499},
+    { id: 8, name: "Compact Home PC", price: 599},
+    { id: 9, name: "Office PC Standard", price: 549},
+    { id: 10, name: "Creator Studio", price: 1899},
+    { id: 11, name: "VR Ready Beast", price: 1799},
+    { id: 12, name: "Silent HTPC", price: 799},
+    { id: 13, name: "Retro Build", price: 399},
+    { id: 14, name: "Overclocked Fury", price: 1599},
+    { id: 15, name: "Compact Gaming S", price: 1149},
+    { id: 16, name: "eSports Machine", price: 1299},
+    { id: 17, name: "Developer Workhorse", price: 1399},
+    { id: 18, name: "Multimedia Hub", price: 749},
+    { id: 19, name: "LAN Party Pro", price: 1249},
+    { id: 20, name: "Ultimate Flagship", price: 3999}
+];
