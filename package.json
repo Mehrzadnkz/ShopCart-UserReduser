@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.1.17",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "shopcart-userreduser.json": ".",
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
